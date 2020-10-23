@@ -2,7 +2,7 @@
 Primera prova
 
 
-##Participants
+## Participants
 * Joan
 * Pere
 * Maria
